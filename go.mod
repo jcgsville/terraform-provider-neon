@@ -1,4 +1,4 @@
-module github.com/kislerdm/terraform-provider-neon
+module github.com/jcgsville/terraform-provider-neon
 
 go 1.21
 
